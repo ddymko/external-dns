@@ -29,6 +29,7 @@ require (
 	github.com/google/go-cmp v0.4.1
 	github.com/gophercloud/gophercloud v0.1.0
 	github.com/gorilla/mux v1.7.4 // indirect
+	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
 	github.com/infobloxopen/infoblox-go-client v0.0.0-20180606155407-61dc5f9b0a65
 	github.com/linki/instrumented_http v0.2.0
 	github.com/linode/linodego v0.19.0
@@ -51,7 +52,7 @@ require (
 	github.com/transip/gotransip v5.8.2+incompatible
 	github.com/ultradns/ultradns-sdk-go v0.0.0-20200616202852-e62052662f60
 	github.com/vinyldns/go-vinyldns v0.0.0-20200211145900-fe8a3d82e556
-	github.com/vultr/govultr v0.4.2
+	github.com/vultr/govultr/v2 v2.0.0-beta4
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20200401174654-e694b7bb0875
 	go.uber.org/ratelimit v0.1.0
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
